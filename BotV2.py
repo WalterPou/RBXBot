@@ -4,7 +4,6 @@ import mss
 import pydirectinput
 import random
 import time
-from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 # Initialize screen capture
 sct = mss.mss()
